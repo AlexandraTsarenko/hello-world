@@ -1,2 +1,3 @@
 # hello-world
-my first repository
+
+My name is Alexandra and this is my first experience in coding.
